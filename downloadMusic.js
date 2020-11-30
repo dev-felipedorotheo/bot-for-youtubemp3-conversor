@@ -1,5 +1,4 @@
-// Usar esse site para fazer as conversoes
-// https://youtubemp3.biz/pt2/
+
 var inputLink = document.querySelector('input#youtube-url')
 var btnConvert = document.querySelector('input#submit')
 var arrSong = []
